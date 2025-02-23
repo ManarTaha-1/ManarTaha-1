@@ -3,10 +3,11 @@
 <br><br>
     <img src="https://tatepro.com/wp-content/uploads/2022/01/fe1.jpg" height="250"   /> <br>
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-
 <br>
-
-[![](https://img.shields.io/badge/linkedin-0a66c2)]([http://linkedin.com/in/ingridrosselis](https://www.linkedin.com/in/manar-taha-1847442b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3sxygq8xQdGBaIp%2BJe0o5g%3D%3D))
+<p align="center">
+  <a href="https://www.linkedin.com/in/manar-taha-1847442b6/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+</p>
 </div>
 <h4>⚡⚡ Technologies</h4> 
 
