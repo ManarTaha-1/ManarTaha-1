@@ -10,13 +10,12 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/manar-taha-1847442b6/">
-      <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/manar-taha-1847442b6/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>
+</p>
 </div> 
 
----
 
 ## 🔥 Languages, Frameworks & Tools
 
@@ -27,7 +26,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
----
 
 ## 🧠 Problem Solving
 
