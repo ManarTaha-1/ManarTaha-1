@@ -9,16 +9,23 @@
   <a href="https://www.linkedin.com/in/manar-taha-1847442b6/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
 </p>
-</div>
-<h4>⚡⚡ Technologies</h4> 
+</div> 
 
-![JS](https://img.shields.io/badge/-JS-1572B6?style=flat-square&logo=css3) <br>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br>
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) <br>
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) <br>
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) <br>
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) <br>
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
-
-
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+</p>
+<hr>
 
