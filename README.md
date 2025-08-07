@@ -12,9 +12,10 @@
 </div>
 <h4>⚡⚡ Technologies</h4> 
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) <br>
+![JS](https://img.shields.io/badge/-JS-1572B6?style=flat-square&logo=css3) <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br>
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) <br>
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) <br>
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) <br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
