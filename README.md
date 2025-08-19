@@ -23,6 +23,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br>
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) <br>
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge) <br>
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge) <br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) <br>
 
